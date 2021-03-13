@@ -1,1 +1,2 @@
-# Ball-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
